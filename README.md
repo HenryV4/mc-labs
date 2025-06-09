@@ -14,7 +14,6 @@ mc-labs/
 │── lab2/
 │── lab3/
 │── lab4/
-│── lab5/
 └── README.md
 ```
 ---
